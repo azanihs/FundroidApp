@@ -18,7 +18,7 @@ public class FunObjectList {
     private static void populateList(){
         funList.add(new FunOb(R.drawable.computer,"This is a Computer","#ba68c8"));
         funList.add(new FunOb(R.drawable.eraser,"This is a Eraser","#9c27b0"));
-        funList.add(new FunOb(R.drawable.light_bulb,"This is a Light Bulb","#80deea"));
+        funList.add(new FunOb(R.drawable.light_bulb,"This is a Light Bulb Ok","#80deea"));
     }
 
     public ArrayList<FunOb> getFunList() {
